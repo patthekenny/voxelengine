@@ -1,0 +1,12 @@
+﻿  Utils.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\utils.h(3): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  stb_image.cpp
+  Shader.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\shader.h(3): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  Main.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(1): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  ChunkManager.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\block.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Chunk.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\block.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Generating Code...

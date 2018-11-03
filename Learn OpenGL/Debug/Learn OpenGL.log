@@ -1,0 +1,23 @@
+﻿  Chunk.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunk.cpp(36): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunk.cpp(54): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ChunkManager.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunkmanager.cpp(18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunkmanager.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunkmanager.cpp(44): error C2039: 'getPosition': is not a member of 'didey::chunk::Chunk'
+  c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunk.h(14): note: see declaration of 'didey::chunk::Chunk'
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunkmanager.cpp(44): error C2672: 'glm::translate': no matching overloaded function found
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\chunkmanager.cpp(44): error C2780: 'glm::tmat4x4<T,P> glm::translate(const glm::tmat4x4<T,P> &,const glm::tvec3<T,P> &)': expects 2 arguments - 1 provided
+  d:\libs\glfw\include\glm\gtc\matrix_transform.hpp(58): note: see declaration of 'glm::translate'
+  Main.cpp
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(207): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\patrick\documents\visual studio 2017\projects\learn opengl\learn opengl\main.cpp(208): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
